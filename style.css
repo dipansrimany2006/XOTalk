@@ -204,7 +204,7 @@ a{
     font-weight: 600;
 }
 .game1{
-    background-image: url(/assets/game1Background.png);
+    background-image: url(assets/game1Background.png);
     background-size: cover;
     width: 80vw;
     height: 45vw;
@@ -260,7 +260,7 @@ a{
     margin-right: 2vw;
 }
 .game2{
-    background-image: url(/assets/ludo-king.jpg);
+    background-image: url(assets/ludo-king.jpg);
     background-size: cover;
     width: 80vw;
     height: 45vw;
@@ -271,7 +271,7 @@ a{
     margin-top: 10vw;
 }
 .game3{
-    background-image: url(/assets/game3bg.png);
+    background-image: url(assets/game3bg.png);
     background-size: cover;
     width: 80vw;
     height: 45vw;
